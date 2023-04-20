@@ -1,1 +1,2 @@
-# cancer-diagnosis-classification
+# Cancer Diagnosis Classification
+
