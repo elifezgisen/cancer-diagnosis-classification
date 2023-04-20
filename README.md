@@ -1,3 +1,5 @@
-# Diagnosis of Cancer Using Blood Microbiome Data
+# Cancer Diagnosis Classification
+
+## Diagnosis of Cancer Using Blood Microbiome Data
 
 
